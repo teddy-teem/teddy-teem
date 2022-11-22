@@ -2,7 +2,7 @@
 - 👀 I’m interested in contriuting any nodejs / react js development
 - 🌱 I’m currently learning fullstack development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jahidhsn56@gmail.com or jahidrsn@gmail.com
+- 📫 How to reach me jahidhsn56@gmail.com
 
 <!---
 teddy-teem/teddy-teem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
